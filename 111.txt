@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 1231kdf;lajf;lkjasld;fkjla;kj;lxdddddddddd
+=======
+1231kdf;lajf;lkjasld;fkjla;kj;l
+
+
+
+
+ccccccccccc
+>>>>>>> dev
